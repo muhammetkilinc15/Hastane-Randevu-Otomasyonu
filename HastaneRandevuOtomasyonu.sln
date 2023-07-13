@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastaneRandevuOtomasyonu", "HastaneRandevuOtomasyonu\HastaneRandevuOtomasyonu.csproj", "{70FE07E0-F552-4959-B929-F7E7C9E5053E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{96FAAFFB-08C9-42F7-BE69-E557030E22F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FE07E0-F552-4959-B929-F7E7C9E5053E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FE07E0-F552-4959-B929-F7E7C9E5053E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FE07E0-F552-4959-B929-F7E7C9E5053E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FE07E0-F552-4959-B929-F7E7C9E5053E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FAAFFB-08C9-42F7-BE69-E557030E22F9}.Debug|Any CPU.ActiveCfg = Debug
+		{96FAAFFB-08C9-42F7-BE69-E557030E22F9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55DE97F-9866-4759-BCE7-C87DAD929C73}
+	EndGlobalSection
+EndGlobal
